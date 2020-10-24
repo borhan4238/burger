@@ -5,7 +5,7 @@
 
 /*Header Start*/
 #header {
-    background: url(../images/Rectangle.png);
+    background: url(../images/header-bg.jpg) #FFC135;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -488,7 +488,7 @@ product-item {
 
 /*Footer Part Start*/
 #footer {
-    background: url(../images/footer-bg.png);
+    background: url(../images/footer-bg.jpg) #42200b;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
